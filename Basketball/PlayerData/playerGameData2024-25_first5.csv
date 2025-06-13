@@ -1,0 +1,57 @@
+Season,Date,Location,Team,Opponent,Jersey,PlayerName,StarterFlag,Mins,ThreePt_Made_Att,ThreePtPct,FG_Made_Att,FGPct,FT_Made_Att,FTPct,Reb_Off,Reb_Def,Reb_Tot,PF,AST,TO,BLK,STL,Pts
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,11,Ay Osunde,1,29,3-13,23.1,4-15,26.7,6-6,100.0,1,2,3,2,3,1,0,0,17
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,21,Mike Demagus,1,33,2-10,20.0,6-19,31.6,2-4,50.0,2,4,6,2,0,1,1,2,16
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,22,Mohamud (Moody) Qasim,1,27,3-6,50.0,5-9,55.6,1-1,100.0,1,2,3,2,0,0,0,1,14
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,6,Tyler Garcia,1,27,1-3,33.3,5-7,71.4,1-2,50.0,2,0,2,2,3,1,0,1,12
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,4,Daniel Graham,0,18,1-4,25.0,3-6,50.0,0-0,0.0,1,0,1,0,3,0,0,0,7
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,33,Riaz Saliu,0,20,0-0,0.0,2-3,66.7,0-0,0.0,2,2,4,2,0,1,0,0,4
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,32,Elijah Bethune,0,13,0-2,0.0,1-3,33.3,0-0,0.0,0,1,1,0,2,2,0,1,2
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,9,Ares Culley-Bremner,1,19,0-0,0.0,1-6,16.7,0-2,0.0,2,5,7,2,2,0,1,2,2
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,23,Jeremiah Francis,0,11,0-3,0.0,0-3,0.0,2-2,100.0,3,0,3,2,1,0,0,1,2
+2024-25,"Mon Jul 29, 2024","Toronto, ON",McMaster Marauders,Air Force Academy Falcons,45,Presley Weeks,0,3,0-0,0.0,0-1,0.0,0-0,0.0,0,0,0,0,0,1,0,0,0
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,23,Michael Kayembe,1,27,3-5,60.0,3-8,37.5,4-4,100.0,0,2,2,1,1,3,0,0,13
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,7,Jahcobi Neath,1,26,1-6,16.7,4-15,26.7,1-2,50.0,1,0,1,1,2,3,0,3,10
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,2,Galand Okeugo,0,19,1-1,100.0,3-5,60.0,0-0,0.0,3,5,8,1,0,0,0,1,7
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,14,Elijah Roye,1,23,1-4,25.0,3-8,37.5,0-0,0.0,1,0,1,4,0,1,0,2,7
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,3,Kevin Toth,0,17,1-5,20.0,1-6,16.7,2-5,40.0,3,3,6,1,3,1,0,1,5
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,8,Thomasi Gilgeous-Alexander,1,22,0-1,0.0,1-7,14.3,1-4,25.0,0,5,5,4,2,2,0,1,3
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,4,Maxime Louis-Jean,1,23,1-4,25.0,1-6,16.7,0-0,0.0,0,1,1,0,0,0,0,3,3
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,6,Landon Wright,0,7,1-1,100.0,1-3,33.3,0-0,0.0,1,1,2,2,2,0,0,0,3
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,0,Gregory Angelakos,0,16,0-1,0.0,1-4,25.0,0-0,0.0,2,0,2,1,0,0,0,0,2
+2024-25,"Tue Jul 30, 2024","Toronto, ON",TMU Bold,Air Force Academy Falcons,21,Gabriel Gutsmore,0,20,0-2,0.0,1-5,20.0,0-0,0.0,0,1,1,1,0,0,0,2,2
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,22,Jaheem Joseph,1,28,4-9,44.4,6-14,42.9,0-0,0.0,1,3,4,0,1,1,0,0,16
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,4,Alec Phaneuf,1,21,3-6,50.0,5-10,50.0,0-0,0.0,2,3,5,2,3,3,0,0,13
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,15,Karam Sahly,1,19,0-0,0.0,4-7,57.1,2-2,100.0,2,2,4,4,0,1,0,1,10
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,7,Junior Mercy,0,18,1-4,25.0,4-9,44.4,0-1,0.0,2,1,3,0,3,1,0,2,9
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,12,Owen Soontjens,1,27,2-5,40.0,2-6,33.3,3-4,75.0,1,3,4,1,3,2,0,1,9
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,24,Bradley Louidon,0,22,0-0,0.0,3-10,30.0,1-2,50.0,1,8,9,1,0,1,1,2,7
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,8,Miguel Doyon-Jeremy,0,15,1-2,50.0,2-6,33.3,0-0,0.0,1,1,2,1,1,0,0,0,5
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,14,Gabriel Bourdages,1,21,0-0,0.0,1-2,50.0,0-0,0.0,1,2,3,0,0,2,0,0,2
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,3,Griffyn Bibbings,0,3,0-0,0.0,0-0,0.0,0-0,0.0,0,0,0,0,0,0,0,0,0
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,10,Louis-Vincent Gauvin,0,7,0-0,0.0,0-0,0.0,0-0,0.0,1,0,1,0,0,0,0,0,0
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,9,Nino Lamborot,0,4,0-1,0.0,0-1,0.0,0-0,0.0,0,0,0,0,1,0,0,0,0
+2024-25,"Thu Aug 1, 2024","Montreal, QC",Concordia Stingers,Air Force Academy Falcons,21,Liam Daniel Ngos,0,14,0-0,0.0,0-0,0.0,0-0,0.0,1,3,4,1,0,0,1,0,0
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,8,Noah Wharton,1,37,1-5,20.0,4-10,40.0,15-18,83.3,1,2,3,2,9,0,0,2,24
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,1,Nathan Petrone,1,35,3-7,42.9,5-17,29.4,2-2,100.0,0,2,2,3,2,6,0,1,15
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,15,Aidan Smith,1,20,3-7,42.9,4-10,40.0,0-0,0.0,0,0,0,3,0,1,0,1,11
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,0,Julius Kennedy,0,10,1-2,50.0,1-2,50.0,6-6,100.0,0,1,1,2,0,0,0,0,9
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,22,Declan Peterson,1,27,0-0,0.0,1-2,50.0,2-2,100.0,2,8,10,3,0,0,2,1,4
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,12,Martynas Sabaliauskas,1,12,0-2,0.0,1-4,25.0,2-2,100.0,0,1,1,5,0,0,0,1,4
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,7,Arinze Aniagu,0,16,0-1,0.0,1-4,25.0,0-0,0.0,2,0,2,3,1,2,0,0,2
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,21,Spencer Roberts,0,8,0-0,0.0,1-3,33.3,0-0,0.0,0,0,0,2,0,1,0,0,2
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,2,Kace Archuleta,0,2,0-0,0.0,0-0,0.0,0-0,0.0,0,0,0,1,0,0,0,0,0
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,10,Daniels Baumanis,0,11,0-1,0.0,0-1,0.0,0-0,0.0,0,2,2,1,0,1,0,0,0
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,5,Beckett Johnson,0,13,0-1,0.0,0-3,0.0,0-0,0.0,0,1,1,0,0,2,0,0,0
+2024-25,"Thu Aug 1, 2024","Nassau, Bahamas",Calgary Dinos,Louisville Cardinals,9,Cian Smith,0,8,0-1,0.0,0-2,0.0,0-0,0.0,0,1,1,0,0,0,0,0,0
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,9,William Robinson,0,22,2-6,33.3,4-8,50.0,2-2,100.0,0,3,3,1,1,0,0,3,12
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,5,Georges Lefebvre,1,23,1-2,50.0,3-8,37.5,3-7,42.9,1,9,10,2,1,1,1,0,10
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,20,Alexandre Reinert-Woodfine,1,27,1-4,25.0,4-9,44.4,0-2,0.0,1,5,6,0,2,3,1,1,9
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,14,Benjamin Onyenwosa,0,22,2-3,66.7,3-6,50.0,0-0,0.0,0,2,2,2,0,1,1,0,8
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,11,Sean Herscovitch,1,15,1-3,33.3,1-3,33.3,1-2,50.0,0,2,2,3,5,3,0,0,4
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,22,Saransh Padhy,1,30,0-1,0.0,2-7,28.6,0-0,0.0,1,6,7,3,0,0,0,0,4
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,12,Alexis Messier,1,13,1-2,50.0,1-2,50.0,0-0,0.0,0,0,0,1,0,1,0,2,3
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,4,Matt Phaneuf,0,9,0-2,0.0,1-4,25.0,0-0,0.0,0,1,1,0,0,1,0,0,2
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,10,Luis Micourt,0,7,0-2,0.0,0-2,0.0,0-0,0.0,0,1,1,0,0,1,0,0,0
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,33,Isaac Moore,0,18,0-0,0.0,0-2,0.0,0-0,0.0,1,2,3,1,1,1,0,0,0
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,13,Hans Riche,0,6,0-0,0.0,0-0,0.0,0-0,0.0,0,0,0,0,0,0,0,0,0
+2024-25,"Sat Aug 3, 2024","Montreal, QC",McGill Redbirds,Air Force Academy Falcons,6,Noah Sincere,0,8,0-1,0.0,0-2,0.0,0-0,0.0,0,0,0,1,0,2,0,0,0
