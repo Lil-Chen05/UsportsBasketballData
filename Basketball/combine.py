@@ -1,7 +1,9 @@
 import os
 import pandas as pd
 
-input_dir = "/Users/jerryc/Desktop/Basketball copy/UsportsBasketballData/Basketball/PlayerDataProcessed"
+print("Current working directory:", os.getcwd())
+
+input_dir = "PlayerDataHomeAway"
 output_dir = "BaseData"
 output_file = os.path.join(output_dir, "playerGameDataAll.csv")
 
