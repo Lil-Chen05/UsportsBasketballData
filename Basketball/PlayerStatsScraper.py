@@ -11,7 +11,7 @@ import os
 BASE_URL = "https://usportshoops.ca"
 
 
-def get_last_seasons(n=3):
+def get_last_seasons(n=4):
     """
     1) Fetch "Past Seasons" page at BASE_URL/history/pastseasons.php?Gender=MBB
     2) Look for links like /history/seasongames.php?Gender=MBB&Season=YYYY-YY
@@ -114,7 +114,6 @@ def extract_game_info(game_url):
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # ─────────────────────────────────────────────────────────────────────
     # 1) Find the <h2> header, then its next sibling <table>, then inside that
     #    look for any <td> whose text starts with "Date:" or "Location:".
     heading = soup.find("h2", string=re.compile(r"Men's Basketball Game Report"))
@@ -131,9 +130,7 @@ def extract_game_info(game_url):
                     elif txt.startswith("Location:"):
                         game_info['location'] = txt.replace("Location:", "").strip()
                 # At this point, date/location should be set (if present)
-    # ─────────────────────────────────────────────────────────────────────
 
-    # ─────────────────────────────────────────────────────────────────────
     # 2) Now locate team names & scores. We look again under any
     #    <table border="0" cellpadding="1" cellspacing="1">. In each <tr> with
     #    exactly two <td>s where the right <td> is a digit (the score), we extract.
@@ -158,14 +155,10 @@ def extract_game_info(game_url):
                         game_info['score2'] = right_text
                         return game_info
                     team_count += 1
-    # ─────────────────────────────────────────────────────────────────────
 
     return game_info
 
         
-
-
-
 def parse_boxscore_page(game_url, season):
     """
     Fetches a single game box score page, extracts player stats for both teams,
@@ -182,7 +175,7 @@ def parse_boxscore_page(game_url, season):
     soup = BeautifulSoup(resp.text, "html.parser")
     game_info = extract_game_info(game_url)
     
-            # ────────── Revised Fallback for Date/Location ──────────
+            # Fallback for Date/Location
     if not game_info.get("date"):
         for td in soup.find_all("td"):
             if td.get_text(strip=True) == "Date:":
@@ -331,7 +324,7 @@ def parse_boxscore_page(game_url, season):
     return pd.DataFrame(records)
 
 
-def scrape_last_three_seasons():
+def scrape_last_four_seasons():
     """
     Enhanced scraping with better progress tracking and error handling
     """
@@ -339,16 +332,17 @@ def scrape_last_three_seasons():
     player_data_dir = "PlayerData"
     os.makedirs(player_data_dir, exist_ok=True)
 
-    seasons = get_last_seasons(n=3)
+    seasons = get_last_seasons(n=4)
     if not seasons:
         print("ERROR: No seasons found, exiting...")
         return
+    seasons = list(reversed(seasons))
 
     print(f" Found seasons: {', '.join(seasons)}")
     
     for season_idx, season in enumerate(seasons):
         print(f"\n{'='*60}")
-        print(f"IN PROGRESS:  SCRAPING SEASON: {season} ({season_idx + 1}/3)")
+        print(f"IN PROGRESS:  SCRAPING SEASON: {season} ({season_idx + 1}/4)")
         print(f"{'='*60}")
         
         links = get_game_links_for_season(season)
@@ -419,4 +413,4 @@ def scrape_last_three_seasons():
 
 
 if __name__ == "__main__":
-    scrape_last_three_seasons()
+    scrape_last_four_seasons()
